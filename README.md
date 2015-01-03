@@ -1,4 +1,4 @@
 easyj
 =====
 
-easyj - j*v* on the cheap and easy
+easyj - j * v *  on the cheap and easy
